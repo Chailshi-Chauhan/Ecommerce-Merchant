@@ -22,7 +22,7 @@ module.exports = {
   pages: {
     index: {
       entry: 'src/main.js',
-      title: 'Kumar\'s Vue Project'
+      title: 'SpoLub Merchant'
     }
   },
   productionSourceMap: false
